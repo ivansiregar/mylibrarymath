@@ -23,5 +23,10 @@ class Calculate {
         {
             return (i1 * i2)
         }
+
+        fun kali3 (i1: Int) : Int
+        {
+            return (i1 * 3)
+        }
     }
 }
